@@ -1,6 +1,6 @@
 # vue-event-debounce
 
-will disable component when a event return promise or generate state is pedding.
+will disable component response UI event when a event return promise or generate state is pedding.
 
 ## Install
 
