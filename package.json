@@ -1,0 +1,27 @@
+{
+  "name": "vue-event-debounce",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "babel src/ -d lib/"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Qquanwei/vue-event-debounce.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Qquanwei/vue-event-debounce/issues"
+  },
+  "homepage": "https://github.com/Qquanwei/vue-event-debounce#readme",
+  "devDependencies": {
+    "babel-cli": "6.24.1",
+    "babel-preset-es2015": "6.24.1"
+  },
+  "dependencies": {
+    "co": "4.6.0"
+  }
+}
