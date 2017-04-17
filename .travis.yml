@@ -1,0 +1,7 @@
+language: javascript
+node_js:
+  - "node"
+  - "6"
+before_script:
+  npm install
+script: npm tests

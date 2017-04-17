@@ -1,3 +1,6 @@
+[![Build Status](https://travis-ci.org/Qquanwei/vue-event-debounce.svg?branch=master)](https://travis-ci.org/Qquanwei/vue-event-debounce)
+
+
 # vue-event-debounce
 
 will disable component response UI event when a event return promise or generate state is pedding.
