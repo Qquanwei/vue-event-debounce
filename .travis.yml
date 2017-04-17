@@ -4,4 +4,4 @@ node_js:
   - "6"
 before_script:
   npm install
-script: npm tests
+script: npm test
