@@ -1,6 +1,6 @@
 {
   "name": "vue-event-debounce",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "",
   "main": "lib/index.js",
   "scripts": {
@@ -24,7 +24,6 @@
     "browserify": "14.3.0",
     "jasmine": "2.5.3",
     "jasmine-core": "2.5.2",
-    "jquery": "3.2.1",
     "karma": "1.6.0",
     "karma-babel-preprocessor": "6.0.1",
     "karma-browserify": "5.1.1",
