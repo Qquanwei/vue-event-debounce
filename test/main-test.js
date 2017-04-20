@@ -1,5 +1,4 @@
 import Vue from 'vue'
-import $ from 'jquery'
 import VED from '../src/index.js'
 
 function createApp () {
