@@ -15,7 +15,7 @@ will disable component response UI event when a event return promise or generate
 ...
 import VED from 'vue-event-debounce'
 
-Vue.use(VED, { events: 'click' })
+Vue.use(VED, { events: ['click'] })
 ...
 ```
 
