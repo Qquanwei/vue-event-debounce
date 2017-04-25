@@ -10,6 +10,9 @@ function addDirective(Vue, eventType) {
         el.removeEventListener(eventType, fun)
         co.bind(vnode)(binding.value, arguments).then(function () {
           el.addEventListener(eventType, fun)
+        }).catch(function (e) {
+          el.addEventListener(eventType, fun)
+          throw e
         })
       }
 
