@@ -1,4 +1,5 @@
 [![Build Status](https://travis-ci.org/Qquanwei/vue-event-debounce.svg?branch=master)](https://travis-ci.org/Qquanwei/vue-event-debounce)
+[![npm](https://img.shields.io/npm/v/vue-event-debounce.svg)(https://www.npmjs.com/package/vue-event-debounce)]
 
 
 # vue-event-debounce
