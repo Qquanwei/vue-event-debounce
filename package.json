@@ -1,6 +1,6 @@
 {
   "name": "vue-event-debounce",
-  "version": "0.0.5",
+  "version": "0.1.0",
   "description": "",
   "main": "lib/index.js",
   "scripts": {
@@ -16,6 +16,7 @@
   "bugs": {
     "url": "https://github.com/Qquanwei/vue-event-debounce/issues"
   },
+  "typings": "types/index.d.ts",
   "homepage": "https://github.com/Qquanwei/vue-event-debounce#readme",
   "devDependencies": {
     "babel-cli": "6.24.1",
@@ -30,7 +31,7 @@
     "karma-chrome-launcher": "2.0.0",
     "karma-jasmine": "1.1.0",
     "watchify": "3.9.0",
-    "vue": "2.2.6"
+    "vue": "2.5.2"
   },
   "dependencies": {
     "co": "4.6.0"
