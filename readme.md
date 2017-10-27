@@ -5,7 +5,7 @@
 
 Support TypeScript!
 
-will disable component response UI event when a event return promise or generate state is pedding.
+Block event when callback is pedding! autoresolve Promise/generator.
 
 blog: http://quanweili.com/2017/10/27/introduce-vue-event-debounce/
 
