@@ -1,7 +1,7 @@
 import { PluginFunction } from 'vue';
 
 declare namespace VED {
-  interface IVEDOptions = {
+  interface IVEDOptions {
     events?: string[];
   }
 
