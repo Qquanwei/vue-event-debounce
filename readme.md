@@ -7,7 +7,7 @@ Support TypeScript!
 
 Block event when callback is pedding! autoresolve Promise/generator.
 
-blog: http://quanweili.com/2017/10/27/introduce-vue-event-debounce/
+blog: http://quanweili.com/2017/10/27/introduce-vue-event-debounce.html
 
 ## Install
 
